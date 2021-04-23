@@ -16,6 +16,7 @@
 		C315D69B2632D08D00AEAAE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C315D69A2632D08D00AEAAE8 /* Assets.xcassets */; };
 		C315D6A62632D08F00AEAAE8 /* RONATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C315D6A52632D08F00AEAAE8 /* RONATests.swift */; };
 		C315D6B12632D08F00AEAAE8 /* RONAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C315D6B02632D08F00AEAAE8 /* RONAUITests.swift */; };
+		C315D6CA2632E54E00AEAAE8 /* Background.sks in Resources */ = {isa = PBXBuildFile; fileRef = C315D6C92632E54E00AEAAE8 /* Background.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C315D6AC2632D08F00AEAAE8 /* RONAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RONAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C315D6B02632D08F00AEAAE8 /* RONAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RONAUITests.swift; sourceTree = "<group>"; };
 		C315D6B22632D08F00AEAAE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C315D6C92632E54E00AEAAE8 /* Background.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Background.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C315D6912632D07500AEAAE8 /* Actions.sks */,
 				C315D6932632D07500AEAAE8 /* GameScene.swift */,
 				C315D6952632D07500AEAAE8 /* GameViewController.swift */,
+				C315D6C92632E54E00AEAAE8 /* Background.sks */,
 				C315D6972632D07500AEAAE8 /* Main.storyboard */,
 				C315D69A2632D08D00AEAAE8 /* Assets.xcassets */,
 				C315D69C2632D08D00AEAAE8 /* Info.plist */,
@@ -236,6 +239,7 @@
 			files = (
 				C315D6992632D07500AEAAE8 /* Main.storyboard in Resources */,
 				C315D6902632D07500AEAAE8 /* GameScene.sks in Resources */,
+				C315D6CA2632E54E00AEAAE8 /* Background.sks in Resources */,
 				C315D69B2632D08D00AEAAE8 /* Assets.xcassets in Resources */,
 				C315D6922632D07500AEAAE8 /* Actions.sks in Resources */,
 			);
